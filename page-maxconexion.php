@@ -197,7 +197,8 @@ para llamar a celular 044</p>
 		</div>
 
 		<div class="legales-container">
-			<p>*Tarifas en pesos con impuestos incluidos</p>
+			<p>*Tarifas en pesos con impuestos incluidos.</p>
+            <p>** Estos planes no están disponibles para venta.</p>
 			<p>1 Llamadas a Estados Unidos y Canadá.</p>
 			<p>2 Destino No incluido como Ilimitado.</p>
 			<p>3 Se considera como resto del mundo a los países de Asia, África y Oceanía.</p>
@@ -294,7 +295,8 @@ para llamar a celular 044</p>
 
 		<div class="legales-container">
 
-			<p>*Tarifas en pesos con impuestos incluidos</p>
+			<p>*Tarifas en pesos con impuestos incluidos. </p>
+            <p>** Estos planes no están disponibles para venta.</p>
 			<p>1 Llamadas a Estados Unidos y Canadá.</p>
 			<p>2 Destino No incluido como Ilimitado.</p>
 			<p>3 Se considera como resto del mundo a los países de Asia, África y Oceanía.</p>

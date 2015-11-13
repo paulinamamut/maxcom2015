@@ -87,6 +87,7 @@ a tus necesidades, contamos con opciones a la carta.</p>
 						<li>Memoria externa: Expandible hasta 32MB</li>
 						<li>Disponible en: Paquete Celmax Funcional y </br>Libre</li>
 					</ul>
+                <p>*Equipos sujetos a existencia.</p>
 				</div>
 			</div>
 		</div>
@@ -108,6 +109,7 @@ a tus necesidades, contamos con opciones a la carta.</p>
 						<li>Memoria externa: Expandible hasta 32GB</li>
 						<li>Disponible en: Paquete Celmax Total 100 y </br>Celmax Total300</li>
 					</ul>
+                    <p>*Equipos sujetos a existencia.</p>
 				</div>
 			
 			</div>
@@ -130,12 +132,12 @@ a tus necesidades, contamos con opciones a la carta.</p>
 						<li>Memoria interna: 512MB</li>
 						<li>Memoria externa: Expandible a 32GB</li>
 					</ul>
+                    <p>*Equipos sujetos a existencia.</p>
 				</div>
 				
 			</div>
 		</div>
         <div class="legales-container">
-    <p>*Equipos sujetos a existencia.</p>
     </div>
 	</div>
    
