@@ -11,7 +11,7 @@
 				<p><b>8 servicios digitales</b>Conocer los servicios digitales</p>
 
 				<p>Renta Mensual</p>
-				<p class="price">$299.00</p>
+				<p class="price">$319.00</p>
 
 				<a href="#">Contrátanos</a>
 			</div>
@@ -41,7 +41,7 @@
 				<p><b>8 servicios digitales</b>Conocer los servicios digitales</p>
 
 				<p>Renta Mensual</p>
-				<p class="price">$399.00</p>
+				<p class="price">$379.00</p>
 
 				<a href="#">Contrátanos</a>
 			</div>
@@ -58,7 +58,7 @@
 
 			<div class="info-hvr">
 				<p>Renta Mensual</p>
-				<p class="price">$189.00*</p>
+				<p class="price">$199.00*</p>
 				<small>* Los precios incluyen IVA.</small>
 				<button class="vercanales-pop" data-show='oferta-1'>Ver canales</button>
 				<a href="#">Contrátanos</a>
@@ -73,7 +73,7 @@
 			<div class="info-hvr">
 				<p><b>(9 canales de HBO, 1 canal Golden Premier y 3 canales Discovery Plus)</b></p>
 				<p>Renta Mensual</p>
-				<p class="price">$358.00*</p>
+				<p class="price">$378.00*</p>
 				<small>* Los precios incluyen IVA.</small>
 				<button class="vercanales-pop" data-show='oferta-2'>Ver canales</button>
 				<a href="#">Contrátanos</a>
@@ -88,7 +88,7 @@
 			<div class="info-hvr">
 				<p><b>Definición Standard</b></p>
 				<p>Renta Mensual</p>
-				<p class="price">$235.00*</p>
+				<p class="price">$259.00*</p>
 				<small>* Los precios incluyen IVA.</small>
 				<button class="vercanales-pop" data-show='oferta-3'>Ver canales</button>
 				<a href="#">Contrátanos</a>
@@ -103,7 +103,7 @@
 			<div class="info-hvr">
 				<p><b>(9 canales de HBO, 1 canal Golden Premier y 3 canales Discovery Plus)</b></p>
 				<p>Renta Mensual</p>
-				<p class="price">$434.00*</p>
+				<p class="price">$438.00*</p>
 				<small>* Los precios incluyen IVA.</small>
 				<button class="vercanales-pop" data-show='oferta-4'>Ver canales</button>
 				<a href="#">Contrátanos</a>
@@ -124,7 +124,7 @@
 				<p><b>Internet</b> 100 MB</p>
 				<p><b>Equipo Incluido</b>Smartphone Solone SM35</p>
 				<p>Renta Mensual</p>
-				<p class="price">$149.00</p>
+				<p class="price">$160.00</p>
 
 				<a href="#">Contrátanos</a>
 			</div>
@@ -140,7 +140,7 @@
 				<p><b>Internet</b> 100 MB</p>
 				<p><b>Equipo Incluido</b>Smartphone Solone 4AC</p>
 				<p>Renta Mensual</p>
-				<p class="price">$199.00</p>
+				<p class="price">$213.00</p>
 
 				<a href="#">Contrátanos</a>
 			</div>
@@ -156,7 +156,7 @@
 				<p><b>Internet</b> 100 MB</p>
 				<p><b>Smartphone Solone 4AC</b></p>
 				<p>Renta Mensual</p>
-				<p class="price">$249.00</p>
+				<p class="price">$267.00</p>
 
 				<a href="#">Contrátanos</a>
 			</div>
@@ -171,7 +171,7 @@
 				<p><b>Internet</b> 300 MB</p>
 				<p><b>Smartphone Solone A47</b></p>
 				<p>Renta Mensual</p>
-				<p class="price">$299.00</p>
+				<p class="price">$320.00</p>
 				<a href="#">Contrátanos</a>
 			</div>
 			

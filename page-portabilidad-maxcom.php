@@ -98,6 +98,18 @@
 			</ul>
 
 			<p>El tiempo de respuesta de la portabilidad será de 24 hrs. a partir de la instalación.</p>
+            
+            <p class="title">Comprobante de numeración</p>
+            <p>Contacta a tu ejecutivo personalizado o llámanos al <b>01 800 6292662.</b></p>
+            
+            <p class="title">Información contractual</p>
+            <p>Llámanos al 01 800 6292662 o solicítala <a href="<?php echo SITEURL; ?>mi-cuenta/" target="_blank">aquí</a>.</p>
+    
+        <p class="title">Más información</p>
+            <p>Llámanos al 01 800 6292662 o solicítala <a href="<?php echo SITEURL; ?>encuentranos/" target="_blank">aquí</a>.</p>
+            
+            <p class="title">Para tu comodidad</p>
+            <p>Puedes entregar personalmente los 2 documentos en <a href="<?php echo SITEURL; ?>mi-cuenta/" target="_blank">nuestras sucursales maxcom.</a></p>
 
 			<div class="buttons-container">
 				<a href="<?php echo ASSETPATH;?>requisitos-portabilidad-empresarial.pdf" class="general-a" target="_blank">Descargar formato <span>de portabilidad</span></a>
